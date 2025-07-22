@@ -55,7 +55,10 @@ Velog: [https://velog.io/@wlsdmsrnfl](https://velog.io/@wlsdmsrnfl)
 - 통계 데이터 시각화
 - 로우 쿼리 통계
 - DB Agent 를 이용한 통계 생성
-- 
+
+| OPIC(영어) | IH | IH |IH |
+| --- | --- | --- |--- |
+  
 - **Trouble Shooting**
     
     
