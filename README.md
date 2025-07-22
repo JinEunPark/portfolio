@@ -93,7 +93,7 @@ dffusion 이미지 변환 모델을 이용해서 사용자들의 인물 이미�
 - MySql
 
 <img width="944" height="337" alt="Image" src="https://github.com/user-attachments/assets/506eaad3-56cc-4f6b-83d4-9782a7a18a4f" />
-<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/1677d110-3cd4-4dd4-8d40-70fe8c729c37" />
+<img width="944" height="337" alt="Image" src="https://github.com/user-attachments/assets/1677d110-3cd4-4dd4-8d40-70fe8c729c37" />
 
 **담당**
 
@@ -126,9 +126,9 @@ dffusion 이미지 변환 모델을 이용해서 사용자들의 인물 이미�
 
 패션디자인을 전공자들이 포트폴리오를 업로드하고 포트폴리오의 옷을 대량 생산할 수 있게 클라우드 펀딩 플렛폼을 개발함
 
-<img width="1102" height="621" alt="Image" src="https://github.com/user-attachments/assets/92dabfbe-917f-4e9c-899d-3a45958c72f5" />
+<img width="944" height="337" alt="Image" src="https://github.com/user-attachments/assets/92dabfbe-917f-4e9c-899d-3a45958c72f5" />
 
-<img width="1098" height="622" alt="Image" src="https://github.com/user-attachments/assets/6011dce9-ac13-4ad9-87c9-80f7ebe4f738" />
+<img width="944" height="337" alt="Image" src="https://github.com/user-attachments/assets/6011dce9-ac13-4ad9-87c9-80f7ebe4f738" />
 
 **담당**
 
