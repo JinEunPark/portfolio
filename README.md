@@ -139,7 +139,7 @@ dffusion 이미지 변환 모델을 이용해서 사용자들의 인물 이미�
 
 <img width="1102" height="621" alt="Image" src="https://github.com/user-attachments/assets/92dabfbe-917f-4e9c-899d-3a45958c72f5" />
 
-![Untitled](%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8C%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AB%203af50f17ae7e42659de3fdee502c5401/Untitled%201.png)
+<img width="1098" height="622" alt="Image" src="https://github.com/user-attachments/assets/6011dce9-ac13-4ad9-87c9-80f7ebe4f738" />
 
 **담당**
 
