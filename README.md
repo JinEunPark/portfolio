@@ -1,7 +1,4 @@
 # portfolio
-portfolio
-
----
 
 Notion: [https://elegant-gorgonzola-caa.notion.site/3af50f17ae7e42659de3fdee502c5401?pvs=4](https://www.notion.so/3af50f17ae7e42659de3fdee502c5401?pvs=21)
 
