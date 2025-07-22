@@ -1,11 +1,6 @@
 # portfolio
 portfolio
 
-
-# 지원자 박진은
-
-![01.jpg](%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8C%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AB%203af50f17ae7e42659de3fdee502c5401/01.jpg)
-
 ---
 
 Notion: [https://elegant-gorgonzola-caa.notion.site/3af50f17ae7e42659de3fdee502c5401?pvs=4](https://www.notion.so/3af50f17ae7e42659de3fdee502c5401?pvs=21)
