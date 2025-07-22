@@ -31,12 +31,38 @@ Velog: [https://velog.io/@wlsdmsrnfl](https://velog.io/@wlsdmsrnfl)
 ---
 
 **Main Skill**
-
+- WPF/.net framework
 - Java/Spring-boot/JPA/Mybatis
 - AWS/RDS/EC2/s3/redis
 - MySql/MSsql/
 
 ### Projects
+---
+**고객 성능 관리 솔루션 개발**
+
+기간: 2025.02 ~ 2025.08
+
+로그 분석을 통한 소프트웨어 API 및 UI 성능 관리 솔루션
+
+**Main Skill**
+
+- C#/WPF/.net framework/mssql
+- live chart/ EBPlus
+
+담당
+
+- Mssql 데이터 베이스 설계 및 로그 통계 테이블 설계
+- 통계 데이터 시각화
+- 로우 쿼리 통계
+- DB Agent 를 이용한 통계 생성
+- 
+- **Trouble Shooting**
+    
+    
+    | **trouble** | **shooting** |
+    | --- | --- |
+    | 최대 하루 3000만건의 로그 분석을 위한 빅쿼리 생성| 쿼리 튜닝을 통한 일배치로 하루 데이터 분석 로직 개발|
+
 
 ---
 
